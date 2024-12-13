@@ -10,8 +10,7 @@
   <h3> Our Ofice Locations : Technopark TVM, Thampanoor TVM, Kochi, Kerala, Nagercoil, Tamil Nadu </h3>
 
 <h1> Welcome to DevOps </h1>
-<h2> Welcome to DevOps </h2>
-<h3> Welcome to DevOps </h3>
+
 
 
 
